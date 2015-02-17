@@ -7,7 +7,7 @@
  * Allows for some configuration in wp-config.php (see default-constants.php)
  *
  * @internal This file must be parsable by PHP4.
- *
+ * boop boop
  * @package WordPress
  */
 
